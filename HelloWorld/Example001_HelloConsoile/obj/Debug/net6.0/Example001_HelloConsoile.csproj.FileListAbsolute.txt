@@ -1,0 +1,15 @@
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\bin\Debug\net6.0\Example001_HelloConsoile.exe
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\bin\Debug\net6.0\Example001_HelloConsoile.deps.json
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\bin\Debug\net6.0\Example001_HelloConsoile.runtimeconfig.json
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\bin\Debug\net6.0\Example001_HelloConsoile.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\bin\Debug\net6.0\Example001_HelloConsoile.pdb
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.csproj.AssemblyReference.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.AssemblyInfoInputs.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.AssemblyInfo.cs
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\refint\Example001_HelloConsoile.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.pdb
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\Example001_HelloConsoile.genruntimeconfig.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example001_HelloConsoile\obj\Debug\net6.0\ref\Example001_HelloConsoile.dll
