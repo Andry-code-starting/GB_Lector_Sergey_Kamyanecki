@@ -1,0 +1,15 @@
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.csproj.AssemblyReference.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.AssemblyInfoInputs.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.AssemblyInfo.cs
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\bin\Debug\net6.0\Example007_Fraktale.exe
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\bin\Debug\net6.0\Example007_Fraktale.deps.json
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\bin\Debug\net6.0\Example007_Fraktale.runtimeconfig.json
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\bin\Debug\net6.0\Example007_Fraktale.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\bin\Debug\net6.0\Example007_Fraktale.pdb
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\refint\Example007_Fraktale.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.pdb
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\Example007_Fraktale.genruntimeconfig.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example007_Fraktale\obj\Debug\net6.0\ref\Example007_Fraktale.dll
