@@ -1,0 +1,15 @@
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\bin\Debug\net6.0\Example006.exe
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\bin\Debug\net6.0\Example006.deps.json
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\bin\Debug\net6.0\Example006.runtimeconfig.json
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\bin\Debug\net6.0\Example006.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\bin\Debug\net6.0\Example006.pdb
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.csproj.AssemblyReference.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.AssemblyInfoInputs.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.AssemblyInfo.cs
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\refint\Example006.dll
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.pdb
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\Example006.genruntimeconfig.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example006\obj\Debug\net6.0\ref\Example006.dll

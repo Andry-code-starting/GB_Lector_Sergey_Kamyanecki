@@ -1,0 +1,5 @@
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example005_HelloConsoile\obj\Debug\net6.0\Example005_HelloConsoile.csproj.AssemblyReference.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example005_HelloConsoile\obj\Debug\net6.0\Example005_HelloConsoile.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example005_HelloConsoile\obj\Debug\net6.0\Example005_HelloConsoile.AssemblyInfoInputs.cache
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example005_HelloConsoile\obj\Debug\net6.0\Example005_HelloConsoile.AssemblyInfo.cs
+C:\GeekBrains\Sergey_Kamyanetskiy\HelloWorld\Example005_HelloConsoile\obj\Debug\net6.0\Example005_HelloConsoile.csproj.CoreCompileInputs.cache
